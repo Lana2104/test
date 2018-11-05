@@ -1,0 +1,67 @@
+/*основной блок*/
+.main-block {
+    margin: 0 auto;
+    display: block;
+    height: 496px;
+    width: 315px;
+    font-family: "Arial";
+    background-color: #f6f6f6;
+}   
+/*блок с картинкой*/    
+.picture {
+    width: 100%;
+    height: 210px;
+
+
+}
+/*блок с текстом и кнопкой*/
+.datacenter {
+    height: 286px;
+    width: 100%;
+    margin: 15px;
+}
+/*дата сообщения*/
+.date {
+    color: #1b90cf;
+    font-size: 12px;
+}
+/*заголовок сообщения*/
+h3 {
+    color: #1b90cf;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 24px;
+}
+/*текст сообщения*/
+p {
+    color: #575756;
+    font-size: 15px;
+    line-height: 23px;
+    font-family: Arial;
+    text-align: justify;
+    box-sizing: border-box;
+    width: auto;
+    margin-bottom: 5px;
+    padding-right: 30px;
+}
+/*ссылка из текста*/
+.more {
+    color: #1b90cf;
+}
+/*блок с кнопкой*/
+.offerte {
+    width: 235px;
+    height: 50px;
+    background-color: #1b90cf;
+    margin-top: 0px;
+}
+/*кнопка ссылкой*/
+.button {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+    line-height: 50px;
+    margin-left: 15px;
+    display: inline-block;
+}
